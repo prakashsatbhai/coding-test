@@ -99,7 +99,7 @@
 		    	},
 		    	minutes: {
 			      	digits: true,
-			      	range: [0, 12]
+			      	range: [0, 60]
 		    	}
 		  	}
 		});
